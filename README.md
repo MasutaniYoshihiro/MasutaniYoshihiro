@@ -1,4 +1,19 @@
 ### Hi there 👋
+I work as a freelance application developer.
+
+## Skill
+### Language
+C
+Ruby
+Java
+Javascript
+
+### Framework
+Ruby on Rails
+
+## History
+2009~: work for System Engineering Service Company
+2020~: freelance
 
 <!--
 **MasutaniYoshihiro/MasutaniYoshihiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
